@@ -1,7 +1,7 @@
 # zomato-deeplink-hijack
 Proof of Concept demonstrating WebView injection via deep link abuse in Zomato Android application, allowing attacker-controlled content to be rendered inside the app context.
 
-![]()
+![](https://github.com/nitinronge91/zomato-deeplink-hijack/blob/96e8ec3d70a4746372dc0ef79f8ebfa1cc529b05/ZOMATO_Webview_phishing.mp4)
 
 ## Vulnerabilities Reported
 
